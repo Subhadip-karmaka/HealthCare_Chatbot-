@@ -1,13 +1,6 @@
 import React, { useState, useEffect, useRef } from "react";
 import { motion } from "framer-motion";
-import {
-  Plus,
-  MessageSquare,
-  Moon,
-  Sun,
-  HeartPulse,
-  User,
-} from "lucide-react";
+import { Plus, Moon, Sun, HeartPulse, User } from "lucide-react";
 import "./App.css";
 import {
   LineChart,
