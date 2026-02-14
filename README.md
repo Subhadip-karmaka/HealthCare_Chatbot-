@@ -79,6 +79,8 @@ Showcase modern UI/UX engineering & real-time interactions
 
 This chatbot is for educational and informational purposes only and is not a substitute for professional medical advice.
 
+🔗Live Demo: https://your-vercel-link.vercel.app
+
 👨‍💻 Creator
 
 Made with ❤️ by Subhadip Karmakar
